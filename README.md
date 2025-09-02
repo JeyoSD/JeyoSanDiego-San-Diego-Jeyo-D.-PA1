@@ -13,9 +13,8 @@ def main():
     result = alphabet_soup(al_s)
     print(result)
 
-main()```
+main()
 
-```
 #Create a function that changes specific words into emoticons. 
 #Given a sentence as a string, replace the words smile, grin, sad, and mad with their corresponding emoticon.
 
@@ -33,9 +32,9 @@ def main():
     result = emotify(string)
     print(result)
 
-main()```
+main()
 
-```
+
 #Unpack the list into three variables, being first, middle, and last, with middle being everything in between the first and last element. 
 #Then print all three variables.
 
