@@ -64,12 +64,12 @@ unpacking_list()
 This is a repository that contains Jupyter Notebook code using the Python programming language. It is a set of three exercises that make use of basic Python coding and concepts.
 
 ## 1. Alphabet Soup Problem
-This is a function that takes an input from the user and outputs the characters of the inputted string into an alphabetically arranged version of the string.
+This function takes an input from the user and outputs the characters of the input string into an alphabetically arranged version of the string. The function accomplishes this by converting the string into a list using the ```list()``` code, then sorting the list using ```.sort()``` and turning the list back into the string using the ```.join()``` code.
 
 • Example: "hacker" -> "acehkr"
 
 ## 2. Emoticon Problem
-This is a function that accepts user input for a sentence and replaces set words to the corresponding emoticons.
+This function accepts user input for a sentence and replaces set words with the corresponding emoticons. The function accomplishes this by using the ```.replace() ``` code to replace select words with their emoticon variants.
 
 **Conversion List:**
 
@@ -86,7 +86,7 @@ This is a function that accepts user input for a sentence and replaces set words
 • "I am mad!" -> "I am >:(!"
 
 ## 3. Unpacking List Problem
-This code divides a given list of numbers into a first part, a middle part, and a last part.
+This code divides a given list of numbers into a first part, a middle part, and a last part. The code accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
 
 • Example: 1st = [1,2,3,4,5,6]
 
