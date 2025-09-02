@@ -5,7 +5,9 @@ This is a repository that contains Jupyter Notebook code using the Python progra
 ## 1. Alphabet Soup Problem
 This function takes an input from the user and outputs the characters of the input string into an alphabetically arranged version of the string. The function accomplishes this by converting the string into a list using ```list()```, then sorting the list using ```.sort()``` to sort it in alphabetical order, and turning the list back into the string using the ```.join()```.
 
-• Example: "hacker" -> "acehkr"
+**Example:** 
+
+• "hacker" -> "acehkr"
 
 ```
 #Create a function that takes a string and returns a string with its letters in alphabetical order.
