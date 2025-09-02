@@ -1,6 +1,12 @@
-# Programming Assignment #1
+# Experiment 1: Introduction to Python Programming
 
-## Alphabet Soup Problem
+This is a repository that contains Jupyter Notebook code using the Python programming language. It is a set of three exercises that make use of basic Python coding and concepts.
+
+## 1. Alphabet Soup Problem
+This function takes an input from the user and outputs the characters of the input string into an alphabetically arranged version of the string. The function accomplishes this by converting the string into a list using ```list()```, then sorting the list using ```.sort()``` to sort it in alphabetical order, and turning the list back into the string using the ```.join()```.
+
+• Example: "hacker" -> "acehkr"
+
 ```
 #Create a function that takes a string and returns a string with its letters in alphabetical order.
 
@@ -16,7 +22,24 @@ def main():
     result = alphabet_soup(al_s)
     print(result)
 ```
-## Emoticon Problem
+
+## 2. Emoticon Problem
+This function accepts user input for a sentence and replaces set words with the corresponding emoticons. The function accomplishes this by using ```.replace() ``` to replace select words with their emoticon variants.
+
+**Conversion List:**
+
+• "smile" -> ":)"
+
+• "grin" -> ":D"
+
+• "sad" -> ":(("
+
+• "mad" -> ">:("
+
+**Example:**
+
+• "I am mad!" -> "I am >:(!"
+
 ```
 main()
 
@@ -37,7 +60,14 @@ def main():
     result = emotify(string)
     print(result)
 ```
-## Unpacking List Problem
+
+## 3. Unpacking List Problem
+This code divides a given list of numbers into a first part, a middle part, and a last part. The code accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
+
+• Example: 1st = [1,2,3,4,5,6]
+
+• First: 1, Middle: [2,3,4,5] Last: 6
+
 ```
 main()
 
@@ -58,39 +88,6 @@ def unpacking_list():
 
 unpacking_list()
 ```
-
-# Experiment 1: Introduction to Python Programming
-
-This is a repository that contains Jupyter Notebook code using the Python programming language. It is a set of three exercises that make use of basic Python coding and concepts.
-
-## 1. Alphabet Soup Problem
-This function takes an input from the user and outputs the characters of the input string into an alphabetically arranged version of the string. The function accomplishes this by converting the string into a list using ```list()```, then sorting the list using ```.sort()``` to sort it in alphabetical order, and turning the list back into the string using the ```.join()```.
-
-• Example: "hacker" -> "acehkr"
-
-## 2. Emoticon Problem
-This function accepts user input for a sentence and replaces set words with the corresponding emoticons. The function accomplishes this by using ```.replace() ``` to replace select words with their emoticon variants.
-
-**Conversion List:**
-
-• "smile" -> ":)"
-
-• "grin" -> ":D"
-
-• "sad" -> ":(("
-
-• "mad" -> ">:("
-
-**Example:**
-
-• "I am mad!" -> "I am >:(!"
-
-## 3. Unpacking List Problem
-This code divides a given list of numbers into a first part, a middle part, and a last part. The code accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
-
-• Example: 1st = [1,2,3,4,5,6]
-
-• First: 1, Middle: [2,3,4,5] Last: 6
 
 ### Requirements:
 
