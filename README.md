@@ -12,7 +12,8 @@ def main():
     al_s = input("Input a string to be arranged alphabetically: ")
     result = alphabet_soup(al_s)
     print(result)
-
+```
+```
 main()
 
 #Create a function that changes specific words into emoticons. 
@@ -31,7 +32,8 @@ def main():
     string = input("Write a sentence with either smile, grin, sad, or mad: ")
     result = emotify(string)
     print(result)
-
+```
+```
 main()
 
 
