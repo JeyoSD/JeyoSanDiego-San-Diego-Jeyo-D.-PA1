@@ -15,7 +15,7 @@ Conversion List:
 **Example:**
 • "I am mad!" -> "I am >:(!"
 
-**4. Unpacking List Problem**
+**3. Unpacking List Problem**
 This code divides a given list of numbers into a first part, a middle part, and a last part.
 • Example: 1st = [1,2,3,4,5,6]
 • First: 1, Middle: [2,3,4,5] Last: 6
