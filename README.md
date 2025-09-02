@@ -69,7 +69,7 @@ This function takes an input from the user and outputs the characters of the inp
 • Example: "hacker" -> "acehkr"
 
 ## 2. Emoticon Problem
-This function accepts user input for a sentence and replaces set words with the corresponding emoticons. The function accomplishes this by using the ```.replace() ``` code to replace select words with their emoticon variants.
+This function accepts user input for a sentence and replaces set words with the corresponding emoticons. The function accomplishes this by using ```.replace() ``` to replace select words with their emoticon variants.
 
 **Conversion List:**
 
