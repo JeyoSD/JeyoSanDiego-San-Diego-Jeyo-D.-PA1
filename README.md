@@ -10,7 +10,7 @@ This is a function that takes an input from the user and outputs the characters 
 **2. Emoticon Problem:**
 This is a function that accepts user input for a sentence and replaces set words to the corresponding emoticons.
 
-Conversion List:
+**Conversion List:**
 
 • "smile" -> ":)"
 
