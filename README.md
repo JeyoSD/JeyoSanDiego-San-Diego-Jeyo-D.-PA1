@@ -3,10 +3,12 @@ This is a repository that contains Jupyter Notebook code using the Python progra
 
 **1. Alphabet Soup Problem**
 This is a function that takes an input from the user and outputs the characters of the inputted string into an alphabetically arranged version of the string.
+
 • Example: "hacker" -> "acehkr"
 
 **2. Emoticon Problem**
 This is a function that accepts user input for a sentence and replaces set words to the corresponding emoticons.
+
 Conversion List:
 • "smile" -> ":)"
 • "grin" -> ":D"
