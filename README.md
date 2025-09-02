@@ -97,8 +97,6 @@ unpacking_list()
 
 ### How to Run:
 
-1. Download the repository or make a fork through Github.
-
-2. Open Jupyter Notebook and upload the file (.ipynb) using the notebook.
-
-3. Run the cells in order and input the desired user inputs in the blank boxes.
+**1.** Download the repository or make a fork through Github.
+**2.** Open Jupyter Notebook and upload the file (.ipynb) using the notebook.
+**3.** Run the cells in order and input the desired user inputs in the blank boxes.
