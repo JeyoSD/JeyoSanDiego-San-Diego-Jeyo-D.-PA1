@@ -9,6 +9,7 @@ This function takes an input from the user and outputs the characters of the inp
 
 • "hacker" -> "acehkr"
 
+### Alphabet Soup Code:
 ```
 #Create a function that takes a string and returns a string with its letters in alphabetical order.
 
@@ -42,6 +43,7 @@ This function accepts user input for a sentence and replaces set words with the 
 
 • "I am mad!" -> "I am >:(!"
 
+### Emoticon Code:
 ```
 main()
 
@@ -72,6 +74,7 @@ This function divides a given list of numbers into a first part, a middle part, 
 
 • First: 1, Middle: [2,3,4,5] Last: 6
 
+### Unpacking List Code:
 ```
 main()
 
