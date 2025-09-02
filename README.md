@@ -62,7 +62,7 @@ def main():
 ```
 
 ## 3. Unpacking List Problem
-This code divides a given list of numbers into a first part, a middle part, and a last part. The code accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
+This function divides a given list of numbers into a first part, a middle part, and a last part. It accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
 
 • Example: 1st = [1,2,3,4,5,6]
 
