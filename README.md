@@ -1,4 +1,4 @@
-# Alphabet Soup
+# Alphabet Soup Problem
 ```
 #Create a function that takes a string and returns a string with its letters in alphabetical order.
 
@@ -14,6 +14,7 @@ def main():
     result = alphabet_soup(al_s)
     print(result)
 ```
+# Emoticon Problem
 ```
 main()
 
@@ -34,6 +35,7 @@ def main():
     result = emotify(string)
     print(result)
 ```
+# Unpacking List Problem
 ```
 main()
 
