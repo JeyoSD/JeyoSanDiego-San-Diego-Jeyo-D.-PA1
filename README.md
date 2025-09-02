@@ -57,16 +57,16 @@ def unpacking_list():
 unpacking_list()
 ```
 
-# **Experiment 1:** Introduction to Python Programming
+# Experiment 1: Introduction to Python Programming
 
 This is a repository that contains Jupyter Notebook code using the Python programming language. It is a set of three exercises that make use of basic Python coding and concepts.
 
-**1. Alphabet Soup Problem:**
+## **1. Alphabet Soup Problem:**
 This is a function that takes an input from the user and outputs the characters of the inputted string into an alphabetically arranged version of the string.
 
 • Example: "hacker" -> "acehkr"
 
-**2. Emoticon Problem:**
+## **2. Emoticon Problem:**
 This is a function that accepts user input for a sentence and replaces set words to the corresponding emoticons.
 
 **Conversion List:**
@@ -83,7 +83,7 @@ This is a function that accepts user input for a sentence and replaces set words
 
 • "I am mad!" -> "I am >:(!"
 
-**3. Unpacking List Problem:**
+## **3. Unpacking List Problem:**
 This code divides a given list of numbers into a first part, a middle part, and a last part.
 
 • Example: 1st = [1,2,3,4,5,6]
