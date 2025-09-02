@@ -10,23 +10,36 @@ This is a function that takes an input from the user and outputs the characters 
 This is a function that accepts user input for a sentence and replaces set words to the corresponding emoticons.
 
 Conversion List:
+
 • "smile" -> ":)"
+
 • "grin" -> ":D"
+
 • "sad" -> ":(("
+
 • "mad" -> ">:("
+
 **Example:**
+
 • "I am mad!" -> "I am >:(!"
 
 **3. Unpacking List Problem**
 This code divides a given list of numbers into a first part, a middle part, and a last part.
+
 • Example: 1st = [1,2,3,4,5,6]
+
 • First: 1, Middle: [2,3,4,5] Last: 6
 
 **Requirements:**
+
 • Python v.3.8 or later versions
+
 • Jupyter Notebook
 
 **How to Run:**
+
 1. Download the repository or make a fork through Github.
+
 2. Open Jupyter Notebook and upload the file (.ipynb) using the notebook.
+
 3. Run the cells in order and input the desired user inputs in the blank boxes.
