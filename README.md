@@ -66,7 +66,7 @@ def main():
 ```
 
 ## 3. Unpacking List Problem
-This function divides a given list of numbers into a first part, a middle part, and a last part. It accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
+This function divides a given list of numbers into the first, middle, and last parts. It accomplishes this by outputting the first element from the packed_list list, outputting the elements sliced from the first index to before the negative first index when counting from the end, and finally outputting the last element by finding the negative first index when counting from the end.
 
 **Example:** 
 
@@ -104,7 +104,7 @@ unpacking_list()
 
 ### How to Run:
 
-**1.** Download the repository or make a fork through Github.
+**1.** Download the repository or make a fork through GitHub.
 
 **2.** Open Jupyter Notebook and upload the file (.ipynb) using the notebook.
 
